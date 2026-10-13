@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com"   
+        }
+
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 999.99
+        },
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 999.99
+        }
+    ]
+    
+}
